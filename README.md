@@ -1,6 +1,6 @@
 # instagram_list
 
-This app displays several Instagram post cards. The purpose is to practice refactoring classes and using models
+This app displays several posts using data originated from firebase database API. We use flutter to get the data by http request
 
 ## Getting Started
 
